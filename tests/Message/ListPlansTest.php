@@ -33,6 +33,6 @@ class ListInvoicesRequestTest extends TestCase
      */
     public function testSendFailure()
     {
-        this->assertTrue(true);
+        $this->assertTrue(true);
     }
 }
